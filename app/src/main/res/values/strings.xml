@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebviewExample</string>
+    <string name="URL">https://ya.ru/</string>
+</resources>
